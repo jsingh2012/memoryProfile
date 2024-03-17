@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 09869c80445ff4973a921402d3998c5a
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 6c5ab3b2b9e4142e4b870760c536c737
+    m_Address: Assets/Prefabs/Environments.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 71c2164c9cd65403091950eaf1aea0d0, type: 2}
   m_SchemaSet:
